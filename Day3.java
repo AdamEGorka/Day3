@@ -3,5 +3,6 @@ public class Day3{
 		System.out.println("Yee");
 		System.out.println("please work");
 		System.out.println("Partner A");
+		System.out.println("Baby shark doo doo doo doo doo doo");
 	}
 }
